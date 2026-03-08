@@ -1,0 +1,9 @@
+Cout = 0
+Num = int(input" enter a number "):
+For I in range (1,num+1):
+     if(num%i)= 0:
+     count+1=0
+   if count ==0:
+Print("prime number")
+Else
+Print("not a prime")
